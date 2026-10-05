@@ -1,2 +1,3 @@
-# navigants-site
-site navigants.fr 
+# navigants.fr
+
+Site de présentation d'Altitude, publié avec GitHub Pages sur https://www.navigants.fr
